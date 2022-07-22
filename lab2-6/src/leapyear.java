@@ -3,7 +3,7 @@ public class leapyear {
 
 	public static void main(String[] args) {
 			
-		int year =2008;//(int)(Math.random()*2025);  
+		int year =(int)(Math.random()*5000);        //2008; 
 		
 		
 		System.out.println("The Year : "+year);
